@@ -121,3 +121,11 @@ The PEPE vs WIF comparison demonstrates how **behavioral divergence emerges befo
 
 ---
 
+## dashboard (https://dune.com/akp_m/behavioral-comparison-of-meme-coins-ethereum?utm_source=share&utm_medium=copy&utm_campaign=dashboard)
+
+This dashboard compares on-chain behavioral signals for two Ethereum meme coins (PEPE and WIF) to identify early indicators of trading momentum.
+
+The visualizations track daily new wallet onboarding, buy-side versus sell-side activity, median trade size, and USD trading volume. By aligning these metrics over time, the dashboard highlights how coordinated increases in new wallets, buy pressure, and trade size tend to precede volume expansions in stronger-performing meme coins.
+
+The comparison illustrates that PEPE exhibits earlier and more sustained behavioral shifts relative to WIF, suggesting that on-chain behavior can be used as a leading signal to screen meme coins before broader market attention emerges.
+
